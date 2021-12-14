@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeCommander42/meet1.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/CodeCommander42/meet1.git/static/js/main.244c6204.chunk.js",
+    "main.js.map": "/CodeCommander42/meet1.git/static/js/main.244c6204.chunk.js.map",
+    "runtime-main.js": "/CodeCommander42/meet1.git/static/js/runtime-main.4299ae21.js",
+    "runtime-main.js.map": "/CodeCommander42/meet1.git/static/js/runtime-main.4299ae21.js.map",
+    "static/js/2.9df8e2a7.chunk.js": "/CodeCommander42/meet1.git/static/js/2.9df8e2a7.chunk.js",
+    "static/js/2.9df8e2a7.chunk.js.map": "/CodeCommander42/meet1.git/static/js/2.9df8e2a7.chunk.js.map",
+    "static/js/3.ee38389b.chunk.js": "/CodeCommander42/meet1.git/static/js/3.ee38389b.chunk.js",
+    "static/js/3.ee38389b.chunk.js.map": "/CodeCommander42/meet1.git/static/js/3.ee38389b.chunk.js.map",
+    "index.html": "/CodeCommander42/meet1.git/index.html",
+    "service-worker.js": "/CodeCommander42/meet1.git/service-worker.js",
+    "service-worker.js.map": "/CodeCommander42/meet1.git/service-worker.js.map",
+    "static/css/main.a617e044.chunk.css.map": "/CodeCommander42/meet1.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9df8e2a7.chunk.js.LICENSE.txt": "/CodeCommander42/meet1.git/static/js/2.9df8e2a7.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/CodeCommander42/meet1.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4299ae21.js",
+    "static/js/2.9df8e2a7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.244c6204.chunk.js"
+  ]
+}
