@@ -80,6 +80,9 @@ module.exports.getAccessToken = async (event) => {
       // Respond with OAuth token 
       return {
         statusCode: 200,
+        headers: {
+          'Access-color-Allow-Origin': '*'
+        },
         body: JSON.stringify(token),
       };
     })
